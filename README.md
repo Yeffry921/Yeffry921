@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yeffry
+- 👋 Hi, I’m Yeffry
 - 👀 I’m interested in coding, reading and gaming
-- 🌱 I’m currently learning JS and improving my skills
+- 🌱 I’m currently learning React and improving my skills
 - 💞️ I’m looking to collaborate on projects related to my interests
 - 📫 How to reach me yeffry45@gmail.com
 
